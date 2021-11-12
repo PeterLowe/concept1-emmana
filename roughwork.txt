@@ -1,8 +1,10 @@
 Title
+
 emma
 
 Elevator pitch 
 Describe your game in 30 seconds or less
+
 ...
 World Background
 main differences in your game world
