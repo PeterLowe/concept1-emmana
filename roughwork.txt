@@ -4,7 +4,13 @@ emma
 
 Elevator pitch 
 Describe your game in 30 seconds or less
+O A car racing game in sapce 
+O The racing track will be similiar to the rainbow road racing track in mario kart 
+having a floating track in space 
+O The cars in the game will be floating using rocket on as weels flooting on the track to travil
 
+O there will be power ups along track that allow you to traded places with apoinnents if u hit them with a pergetil transporter.
+O There will also be power downs which will slow down players 
 ...
 World Background
 main differences in your game world
