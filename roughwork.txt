@@ -2,7 +2,7 @@ Title
 ana
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+a mobile video game where you run around a city protecting villagers and completing the quests
 ...
 World Background
 main differences in your game world
